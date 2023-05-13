@@ -1,11 +1,11 @@
 import React from 'react'
-import Approuter from './components/Approuter'
 
+import Not from './Not'
 const App = () => {
   return (
     <div>
-     <Approuter/>
-      
+    <Not/>
+    
     </div>
   )
 }

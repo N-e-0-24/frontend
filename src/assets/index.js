@@ -1,8 +1,5 @@
-import mist from './mist.jpg'
-import uv from './uv.jpg';
-import robo from './robo.jpg';
-
+import logo from './logo.png'
 
 export {
-    mist,uv,robo
+    logo
 }
